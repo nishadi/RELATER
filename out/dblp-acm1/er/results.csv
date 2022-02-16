@@ -1,0 +1,2 @@
+link,individual_link,merge_t,atomic_t,def,scenario,GT,P,TP,FP,FN,Pre,Re,Fstar,time
+P-P,1,0.8,0.9,def,relater-ta0.9-tm0.8-wa1.0-tn10.0,2220,2115,2100,15,120,99.29,94.59,93.96,21.880000000000003

@@ -1,0 +1,87 @@
+INFO:root:Retrieved records of id : 2616
+INFO:root:Retrieved records of id : 2294
+INFO:root:Clustering completed successfully
+INFO:root:Clustering completed successfully
+INFO:root:1 ---- 8 : 2505
+INFO:root:2 ---- 8 : 2213
+INFO:root:1 ---- 9 : 1841
+INFO:root:2 ---- 9 : 1720
+INFO:root:1 ---- 10 : 2655
+INFO:root:2 ---- 10 : 2494
+INFO:root:1 ---- 6 : 10
+INFO:root:2 ---- 6 : 10
+INFO:root:Successfully generated atomic nodes
+INFO:root:Must attributes []
+INFO:root:Core attributes [10, 9, 8]
+INFO:root:Extra attributes [6]
+INFO:root:Must attributes [8]
+INFO:root:Core attributes [6]
+INFO:root:Extra attributes [7]
+INFO:root:Atomic node addition
+ Starting node id 0
+INFO:root:Attribute 10 ends with node id 2995
+INFO:root:Attribute 9 ends with node id 5451
+INFO:root:Attribute 8 ends with node id 7570
+INFO:root:Attribute 6 ends with node id 7597
+INFO:root:Graph serialize time 6.63864207268
+INFO:root:Must attributes []
+INFO:root:Core attributes [10, 9, 8]
+INFO:root:Extra attributes [6]
+INFO:root:Must attributes [8]
+INFO:root:Core attributes [6]
+INFO:root:Extra attributes [7]
+INFO:root:Graph node count 40434
+INFO:root:Graph edge count 1810237
+INFO:root:Graph deserialize time 3.18613290787
+INFO:root:Atomic nodes 7597
+INFO:root:Relationship nodes 32837
+INFO:root:Connected components summary
+INFO:root:	cc size 257 : number of cc's 2
+INFO:root:	cc size 2 : number of cc's 455
+INFO:root:	cc size 3 : number of cc's 10
+INFO:root:	cc size 4 : number of cc's 84
+INFO:root:	cc size 5 : number of cc's 648
+INFO:root:	cc size 7 : number of cc's 38
+INFO:root:	cc size 8 : number of cc's 7
+INFO:root:	cc size 9 : number of cc's 9
+INFO:root:	cc size 10 : number of cc's 592
+INFO:root:	cc size 273 : number of cc's 1
+INFO:root:	cc size 13 : number of cc's 8
+INFO:root:	cc size 15 : number of cc's 1
+INFO:root:	cc size 16 : number of cc's 2
+INFO:root:	cc size 145 : number of cc's 7
+INFO:root:	cc size 19 : number of cc's 5
+INFO:root:	cc size 21 : number of cc's 7
+INFO:root:	cc size 22 : number of cc's 1
+INFO:root:	cc size 25 : number of cc's 2
+INFO:root:	cc size 26 : number of cc's 134
+INFO:root:	cc size 28 : number of cc's 1
+INFO:root:	cc size 29 : number of cc's 1
+INFO:root:	cc size 31 : number of cc's 1
+INFO:root:	cc size 133 : number of cc's 2
+INFO:root:	cc size 34 : number of cc's 1
+INFO:root:	cc size 36 : number of cc's 1
+INFO:root:	cc size 37 : number of cc's 59
+INFO:root:	cc size 325 : number of cc's 3
+INFO:root:	cc size 43 : number of cc's 1
+INFO:root:	cc size 50 : number of cc's 33
+INFO:root:	cc size 57 : number of cc's 1
+INFO:root:	cc size 65 : number of cc's 18
+INFO:root:	cc size 197 : number of cc's 4
+INFO:root:	cc size 12 : number of cc's 7
+INFO:root:	cc size 82 : number of cc's 20
+INFO:root:	cc size 211 : number of cc's 1
+INFO:root:	cc size 91 : number of cc's 2
+INFO:root:	cc size 97 : number of cc's 1
+INFO:root:	cc size 101 : number of cc's 6
+INFO:root:	cc size 17 : number of cc's 304
+INFO:root:	cc size 115 : number of cc's 1
+INFO:root:	cc size 122 : number of cc's 7
+INFO:root:Enriched node count 263
+INFO:root:Added neighbour count 0
+INFO:root:Activated count 0
+INFO:root:Bootstrapping time 10.56
+INFO:root:Enriched node count 846
+INFO:root:Added neighbour count 0
+INFO:root:Activated count 0
+INFO:root:Linking time 11.32

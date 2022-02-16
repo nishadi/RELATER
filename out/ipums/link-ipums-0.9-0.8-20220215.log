@@ -1,0 +1,16 @@
+INFO:root:Initial people dictionary generated
+INFO:root:Clustering completed successfully
+INFO:root:Frequency clusters generated
+INFO:root:---- 5 : 3
+INFO:root:---- 6 : 71
+INFO:root:---- 7 : 12480
+INFO:root:---- 8 : 8049
+INFO:root:---- 9 : 91
+INFO:root:---- 10 : 46
+INFO:root:---- 12 : 174
+INFO:root:Successfully generated atomic nodes
+INFO:root:Atomic nodes generated
+INFO:root:People count 77394
+INFO:root:Must attributes [7, 5, 6]
+INFO:root:Core attributes [8, 9]
+INFO:root:Extra attributes [10, 11, 12]

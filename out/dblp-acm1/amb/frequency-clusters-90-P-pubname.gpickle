@@ -1,0 +1,383 @@
+ccollections
+defaultdict
+p0
+(c__builtin__
+set
+p1
+tp2
+Rp3
+S'paradise a database system for gis applications'
+p4
+g1
+((lp5
+S'gigascope a stream database for network applications'
+p6
+atp7
+Rp8
+sS'response to a close look at the ifo data model'
+p9
+g1
+((lp10
+S'a close look at the ifo data model'
+p11
+atp12
+Rp13
+sS'secure bufering in firm real time database systems'
+p14
+g1
+((lp15
+S'secure buffering in firm real time database systems'
+p16
+atp17
+Rp18
+sS'supporting efficient multimedia database exploration'
+p19
+g1
+((lp20
+S'efficient exploration of large scientific databases'
+p21
+atp22
+Rp23
+sS'tcp d the challenges issues and results'
+p24
+g1
+((lp25
+S'tpc d the challenges issues and results'
+p26
+atp27
+Rp28
+sg21
+g1
+((lp29
+g19
+atp30
+Rp31
+sS'database architecture optimized for the new bottleneck memory access'
+p32
+g1
+((lp33
+S'optimizing database architecture for the new bottleneck memory access'
+p34
+atp35
+Rp36
+sS'picodbms scaling down database techniques for the smartcard'
+p37
+g1
+((lp38
+S'picodmbs scaling down database techniques for the smartcard'
+p39
+atp40
+Rp41
+sS'vice chair s message'
+p42
+g1
+((lp43
+S'chair s message'
+p44
+atp45
+Rp46
+sS'fast and accurate text classification via multiple linear discriminant projections pp'
+p47
+g1
+((lp48
+S'fast and accurate text classification via multiple linear discriminant projections'
+p49
+atp50
+Rp51
+sS'zoo a desktop emperiment management environment'
+p52
+g1
+((lp53
+S'zoo a desktop experiment management environment'
+p54
+atp55
+Rp56
+sS'report on the web dynamics workshop at www 2002'
+p57
+g1
+((lp58
+S'report on the semantic web workshop at www 2002'
+p59
+atp60
+Rp61
+sS'the future of web services i'
+p62
+g1
+((lp63
+S'the future of web services ii'
+p64
+atp65
+Rp66
+sS'database tuning principles experiments and troubleshooting techniques'
+p67
+g1
+((lp68
+S'database tuning principles experiments and troubleshooting techniques part i'
+p69
+aS'database tuning principles experiments and troubleshooting techniques part ii'
+p70
+atp71
+Rp72
+sS'report on the 17th brazilian symposium on database systems sbbd 2002'
+p73
+g1
+((lp74
+S'report on the 13th brazilian symposium on database systems sbbd 98'
+p75
+atp76
+Rp77
+sS'panel future directions of database research the vldb broadening strategy part 1'
+p78
+g1
+((lp79
+S'panel future directions of database research the vldb broadening strategy part 2'
+p80
+atp81
+Rp82
+sg80
+g1
+((lp83
+g78
+atp84
+Rp85
+sS'the new middleware'
+p86
+g1
+((lp87
+S'the middleware muddle'
+p88
+atp89
+Rp90
+sg26
+g1
+((lp91
+g24
+atp92
+Rp93
+sS'guest editorial'
+p94
+g1
+((lp95
+S'editorial'
+p96
+atp97
+Rp98
+sS'an efficient algorithm for mining association rules in large databases'
+p99
+g1
+((lp100
+S'an effective hash based algorithm for mining association rules'
+p101
+atp102
+Rp103
+sg54
+g1
+((lp104
+g52
+atp105
+Rp106
+sS'tutorial application servers and associated technologies'
+p107
+g1
+((lp108
+S'application servers and associated technologies'
+p109
+atp110
+Rp111
+sg64
+g1
+((lp112
+g62
+atp113
+Rp114
+sS'grid data management systems services'
+p115
+g1
+((lp116
+S'data grid management systems'
+p117
+atp118
+Rp119
+sg39
+g1
+((lp120
+g37
+atp121
+Rp122
+sg75
+g1
+((lp123
+g73
+atp124
+Rp125
+sg96
+g1
+((lp126
+g94
+atp127
+Rp128
+sg109
+g1
+((lp129
+g107
+atp130
+Rp131
+sS'projecting xml documents'
+p132
+g1
+((lp133
+S'xml document versioning'
+p134
+atp135
+Rp136
+sS'reminiscences an influential papers'
+p137
+g1
+((lp138
+S'reminiscences on influential papers'
+p139
+atp140
+Rp141
+sg44
+g1
+((lp142
+g42
+atp143
+Rp144
+sg70
+g1
+((lp145
+g67
+ag69
+atp146
+Rp147
+sS'the tv tree an index structure for high dimensional data'
+p148
+g1
+((lp149
+S'the x tree an index structure for high dimensional data'
+p150
+atp151
+Rp152
+sg134
+g1
+((lp153
+g132
+atp154
+Rp155
+sg6
+g1
+((lp156
+g4
+atp157
+Rp158
+sg49
+g1
+((lp159
+g47
+atp160
+Rp161
+sg101
+g1
+((lp162
+g99
+atp163
+Rp164
+sS'minicon a scalable algorithm for answering queries using views'
+p165
+g1
+((lp166
+S'a scalable algorithm for answering queries using views'
+p167
+atp168
+Rp169
+sg167
+g1
+((lp170
+g165
+atp171
+Rp172
+sg117
+g1
+((lp173
+g115
+atp174
+Rp175
+sg16
+g1
+((lp176
+g14
+atp177
+Rp178
+sg150
+g1
+((lp179
+g148
+atp180
+Rp181
+sg34
+g1
+((lp182
+g32
+atp183
+Rp184
+sS'prospector a content based multimedia server for massively parallel architectures'
+p185
+g1
+((lp186
+S'a content based multimedia server for massively parallel architectures'
+p187
+atp188
+Rp189
+sg11
+g1
+((lp190
+g9
+atp191
+Rp192
+sg69
+g1
+((lp193
+g67
+ag70
+atp194
+Rp195
+sg139
+g1
+((lp196
+g137
+atp197
+Rp198
+sS'erratum a database model for object dynamics'
+p199
+g1
+((lp200
+S'a database model for object dynamics'
+p201
+atp202
+Rp203
+sg59
+g1
+((lp204
+g57
+atp205
+Rp206
+sg88
+g1
+((lp207
+g86
+atp208
+Rp209
+sg187
+g1
+((lp210
+g185
+atp211
+Rp212
+sg201
+g1
+((lp213
+g199
+atp214
+Rp215
+s.
